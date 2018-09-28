@@ -36,3 +36,11 @@ python predict.py
 ```
 
 You can run the prediction file right away using the **weights.hdf5** file
+
+## Install requirments
+
+```bash
+virtualenv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
